@@ -1,0 +1,84 @@
+body{
+    margin:0;
+    background-color: #c5ebc5;
+    height: auto;
+
+}
+article{
+    height:auto;
+    width: 900px;
+    margin:auto;
+    background-color: white;
+}
+
+header{ 
+    margin:0;
+    background-image: linear-gradient(to top , darkgreen ,#c5ebc5);
+   
+
+}
+nav{
+  background-color: darkgreen;
+  margin: 0;
+  
+}
+main{
+    
+    margin: auto;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h2{
+    margin:0;
+    padding: 20px;
+  
+    color: rgb(14, 116, 14);
+    
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color:white;
+    background-color: lightgreen;
+    margin: 20px;
+    border-radius: 5px 5px 1px 1px;
+}
+p{
+    margin: auto;
+    text-align: center;
+
+}
+.paragrafo{
+    color: lightsteelblue;
+    text-align: center;
+    
+}
+.estilo{
+   background-image: linear-gradient(to left,white, lightgreen);
+   margin: 20px;
+   padding: 0;
+}
+a{
+    margin-left: 40px;
+    color: white;
+}
+.linkestilo{
+    margin:0;
+    color: darkgreen;
+}
+.imagemmodificada{
+    display: block;
+    margin: auto;
+}
+
+.videoospedado{
+    margin: auto;
+}
+#video{
+margin: 20px;
+background-color: darkgreen;
+text-align: center;
+}

@@ -1,0 +1,41 @@
+h1{
+    color: white;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    text-align: center;
+}
+.videoborda{
+    height: 320px;
+   text-align: center;
+   background-color: aqua;
+}
+.borda{
+    width:500px;
+    height:500px;
+}
+.botao{
+    background-color: brown;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.link{
+    text-align: center;
+    height: 50px;
+    background-color: rgb(58, 226, 43);
+}
+#meio{
+    position: absolute;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: azure;
+    height: 300px;
+    width:99%;
+    
+
+}
+
